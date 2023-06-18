@@ -1,0 +1,19 @@
+
+.container{
+    background-color: rgb(33, 187, 33);
+    height:300px;
+    width:350px;
+    margin: auto;
+    border:10px solid black;
+    margin-top: 10%;
+    padding: 10px;
+}
+#result{
+    margin-left: 20px;
+    height:fit-content;
+    width: fit-content;
+}
+h3{
+    color:red;
+}
+
